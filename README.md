@@ -1,2 +1,2 @@
-# TASK-1-TSF(GRIPJULY21)
-Prediction using supervised Machine learning
+# The sparks foundation (GRIPJULY21)
+Task-1: Prediction using supervised Machine learning
